@@ -1,4 +1,4 @@
-# Proyecto 2
+# Python 2
 
 Python Intermediate Course
 

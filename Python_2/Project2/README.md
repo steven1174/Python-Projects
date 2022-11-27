@@ -1,4 +1,4 @@
-# Proyecto 2
+# Project 2
 
-Python Intermediate Course
+A basic deployement of a web server
 

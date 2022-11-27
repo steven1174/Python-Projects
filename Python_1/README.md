@@ -1,3 +1,3 @@
-# Proyecto 1
+# Python 1
 
 Python Basic Course
