@@ -1,4 +1,4 @@
-# Proyecto 2
+# SQL
 
-Python Intermediate Course
+SQL commands for EDA
 
