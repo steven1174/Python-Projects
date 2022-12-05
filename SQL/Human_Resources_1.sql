@@ -1,7 +1,7 @@
 -- 0. DDL statement for table 'HR' database
 
 CREATE TABLE EMPLOYEES (
-	EMP_ID CHAR(9) NOT NULL, 
+		EMP_ID CHAR(9) NOT NULL, 
         F_NAME VARCHAR(15) NOT NULL,
         L_NAME VARCHAR(15) NOT NULL,
         SSN CHAR(9),
