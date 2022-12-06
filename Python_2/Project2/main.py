@@ -12,7 +12,7 @@ def get_list():
 def get_list():
     return """
         <h1>Hola soy una pagina</h1>
-        <p>soy un parrafo</p>
+        <p>Parrafo 1</p>
     """
 
 def run():
