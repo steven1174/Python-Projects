@@ -7,7 +7,7 @@ def make_repeater_of(n):
 
 def run():
     repeat_5 = make_repeater_of(5)
-    print(repeat_5("Hola "))
+    print(repeat_5("Hola Marlon! "))
 
 if __name__ == "__main__":
     run() 
